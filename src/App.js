@@ -25,7 +25,7 @@ export default function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Homepage />} />
-          <Route path='https://yourdomain.com/install' element={<Installation/>}/>
+          <Route path='https://euphonious-sherbet-7857ce.netlify.app/' element={<Installation/>}/>
           <Route path="/createApp" element={<NewReactApp/>}/>
           <Route path="/components" element={<AddComponents/>}/>
           <Route path="/stylesheets" element={<Stylesheets/>}/>

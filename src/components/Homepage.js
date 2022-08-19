@@ -24,7 +24,7 @@ export default function Homepage() {
         <Card.Text>
         The best way to consume React-Bootstrap is via the npm package which you can install...
         </Card.Text>
-        <Button variant="success" ><Nav.Link href="https://yourdomain.com/install">Read more</Nav.Link></Button>
+        <Button variant="success" ><Nav.Link href="https://euphonious-sherbet-7857ce.netlify.app/">Read more</Nav.Link></Button>
         
       </Card.Body>
     </Card>
